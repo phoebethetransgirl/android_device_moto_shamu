@@ -16,10 +16,10 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/lineage_shamu.mk
+    $(LOCAL_DIR)/kasumi_shamu.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_shamu-user \
-    lineage_shamu-userdebug \
-    lineage_shamu-eng
+    kasumi_shamu-user \
+    kasumi_shamu-userdebug \
+    kasumi_shamu-eng
 
